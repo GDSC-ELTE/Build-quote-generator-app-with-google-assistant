@@ -6,11 +6,8 @@ What is a Qwiklabs?
 Qwiklabs provides temporary credentials to Google Cloud Platform so that you can get a real-life experience by working on different cloud platforms. They consist of 30-minute individual labs to multi-day courses, from introductory level to expert, instructor-led or self-paced.
 https://www.youtube.com/watch?v=xIyJ_bboIR0
 
-### At the end of each Quest you will get a certificateYou can add skill-badge you earned on your resume 
+At the end of each Quest you will get a certificate. Then you can add skill-badge you earned on your resume and linkedin!
 ![qwiklabs](https://user-images.githubusercontent.com/94010710/143928883-240ab6ba-6d7b-483c-8f40-ca8df1d49013.png)
-and linkedin!
-![linkedin](https://user-images.githubusercontent.com/94010710/143928916-56ed9872-6947-4cc4-a7ba-b44d8523c94d.jpg)
-
 
 
 ## Let's prepare for the lab!
@@ -34,6 +31,7 @@ To open incognito:
 1. Windows, Linux, or Chrome OS: Press Ctrl + Shift + n.
 2. Mac: Press ⌘ + Shift + n.
 
-
-
+## Let's get started!
+Access the course here:
+https://www.cloudskillsboost.google/focuses/8391?parent=catalog&qlcampaign=1m-skills-educr-112%3A%3ApwnSmUsLnAM5e4-XjZwIjA
 
