@@ -12,16 +12,6 @@ At the end of each Quest you will get a certificate. Then you can add skill-badg
 
 ## Let's prepare for the lab!
 
-You can train to get skilled in cloud technologies here: https://go.qwiklabs.com/qwiklabs-free
-1. Start the challenge
-2. Fill the form
- - Business name: Google Developer Student clubs - Eötvös Loránd university
- - Business mobile number: You can enter your mobile number
- - Choose your challenge track: Native app development track
- - Are you part of a student club?: Yes, I’m part of a Developer Student Club.
-
-You will get a confirmation email within 2 minutes. It contains one time unique access code and you will use it throughout the lab.
-
 What you need to complete this lab:
 - Access to a standard internet browser (Chrome browser recommended).
 - Time to complete the lab.
@@ -30,6 +20,18 @@ Note: If you are using a Chrome OS device, open an Incognito window to run this 
 To open incognito: 
 1. Windows, Linux, or Chrome OS: Press Ctrl + Shift + n.
 2. Mac: Press ⌘ + Shift + n.
+
+
+You can train to get skilled in cloud technologies here: https://go.qwiklabs.com/qwiklabs-free
+5. Start the challenge
+6. Fill the form
+ - Business name: Google Developer Student clubs - Eötvös Loránd university
+ - Business mobile number: You can enter your mobile number
+ - Choose your challenge track: Native app development track
+ - Are you part of a student club?: Yes, I’m part of a Developer Student Club.
+
+You will get a confirmation email within 2 minutes. It contains one time unique access code and you will use it throughout the lab.
+
 
 ## Let's get started!
 Access the course here:
