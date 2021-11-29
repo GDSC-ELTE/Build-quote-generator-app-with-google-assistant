@@ -6,6 +6,13 @@ What is a Qwiklabs?
 Qwiklabs provides temporary credentials to Google Cloud Platform so that you can get a real-life experience by working on different cloud platforms. They consist of 30-minute individual labs to multi-day courses, from introductory level to expert, instructor-led or self-paced.
 https://www.youtube.com/watch?v=xIyJ_bboIR0
 
+### At the end of each Quest you will get a certificateYou can add skill-badge you earned on your resume 
+![qwiklabs](https://user-images.githubusercontent.com/94010710/143928883-240ab6ba-6d7b-483c-8f40-ca8df1d49013.png)
+and linkedin!
+![linkedin](https://user-images.githubusercontent.com/94010710/143928916-56ed9872-6947-4cc4-a7ba-b44d8523c94d.jpg)
+
+
+
 ## Let's prepare for the lab!
 
 You can train to get skilled in cloud technologies here: https://go.qwiklabs.com/qwiklabs-free
@@ -14,7 +21,8 @@ You can train to get skilled in cloud technologies here: https://go.qwiklabs.com
  - Business name: Google Developer Student clubs - Eötvös Loránd university
  - Business mobile number: You can enter your mobile number
  - Choose your challenge track: Native app development track
- - Are you part of a student club?: Yes, I’m part of a Developer Student Club
+ - Are you part of a student club?: Yes, I’m part of a Developer Student Club.
+
 You will get a confirmation email within 2 minutes. It contains one time unique access code and you will use it throughout the lab.
 
 What you need to complete this lab:
