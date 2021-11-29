@@ -23,8 +23,8 @@ To open incognito:
 
 
 You can train to get skilled in cloud technologies here: https://go.qwiklabs.com/qwiklabs-free
-5. Start the challenge
-6. Fill the form
+1. Start the challenge
+2. Fill the form
  - Business name: Google Developer Student clubs - Eötvös Loránd university
  - Business mobile number: You can enter your mobile number
  - Choose your challenge track: Native app development track
