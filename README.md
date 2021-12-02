@@ -52,5 +52,8 @@ We recommend you to please follow the below steps in order to get the benefits o
 6. Now follow the steps given in the lab & complete it. (Spend atleast 5 minutes in the lab) Once you finish this lab, click on the "End Lab" button, you will automatically get a one month free pass credited to your account.
 7. To check for the subscription you have received, please visit this link (https://www.cloudskillsboost.google/my_account/credits) . 
 
+
+Note: You will get the 30days subscription only if you complete 1 lab, and after that you can access all the courses in the qwiklabs and get the certificates!
+
 Please feel free to reach out to us in case you face any problem.
 
