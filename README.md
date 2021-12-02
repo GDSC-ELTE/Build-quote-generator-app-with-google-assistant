@@ -22,7 +22,8 @@ To open incognito:
 2. Mac: Press ⌘ + Shift + n.
 
 
-You can train to get skilled in cloud technologies here: https://go.qwiklabs.com/qwiklabs-free
+You can train to get skilled in cloud technologies here: https://inthecloud.withgoogle.com/google-cloud-skills/register.html
+
 1. Start the challenge
 2. Fill the form
  - Business name: Google Developer Student clubs - Eötvös Loránd university
