@@ -23,6 +23,7 @@ To open incognito:
 
 
 You can train to get skilled in cloud technologies here: https://inthecloud.withgoogle.com/google-cloud-skills/register.html
+Note: You will have a 30 days access, click "CLAIM OFFER" to activate free access to the labs.
 
 1. Start the challenge
 2. Fill the form
