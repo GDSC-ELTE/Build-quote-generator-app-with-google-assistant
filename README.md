@@ -1,4 +1,4 @@
-# Build a Serverless Web App with Firebase
+# Build quote generator app with Google Assistant
 In this session you will learn about Qwiklabs and Build a Serverless Web App with Firebase
 
 What is a Qwiklabs?
